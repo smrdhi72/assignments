@@ -1,0 +1,204 @@
+/*
+
+My Custom CSS
+=============
+
+Author:  Brad Hussey
+Updated: August 2013
+Notes:	 Hand coded for Udemy.com
+
+*/
+
+
+/* --------------------------------------
+   Layout
+   -------------------------------------- */
+
+
+
+/* --------------------------------------
+   Typography
+   -------------------------------------- */
+
+
+
+/* --------------------------------------
+   Navbar
+   -------------------------------------- */
+.navbar
+{
+   background:#FF90B3; 
+}
+
+   
+#mynavbar li
+{
+   padding-top:80px;
+}
+
+#mynavbar .nav_navbar-nav li
+
+{
+   margin-top:50px;
+}
+
+
+
+   
+/* --------------------------------------
+   Carousel
+   -------------------------------------- */
+
+#mycarousel .item
+{
+   width:100%;
+}
+
+#img-responsive
+{
+   width: 100%;
+}
+
+#mycarousel
+{
+   
+   margin-left:-30px;
+   margin-right:-50px;
+   margin:-30px;
+
+}
+
+#sd
+{
+   margin-top: 100px;
+}
+
+
+
+
+/* --------------------------------------
+   Global Styles
+   -------------------------------------- */
+
+
+
+/* --------------------------------------
+   Media Queries
+   -------------------------------------- */
+
+/* Portrait & landscape phone */
+@media (max-width: 480px) {
+	
+}
+
+/* Landscape phone to portrait tablet */
+@media (max-width: 768px) {
+	
+}
+
+/* Large desktop */
+@media (min-width: 1200px) {
+
+ 
+
+}
+
+.container h2
+{
+   text-align: center;
+   color: #770058;
+}
+
+.name p
+{
+   text-align: center;
+   font-size: 18px;
+   font-family: cursive;
+}
+
+.container .row
+{
+   padding-top:70px;
+}
+
+.container .panel-heading
+{
+   text-align: center;
+   font-size: 24px;
+   color: #C1292E;
+}
+
+.container .panel-footer
+{
+   text-align: center;
+}
+footer 
+{
+   background: #333;
+   color: #eee;
+   font-size: 11px;
+   padding:0px;
+}
+.unstyled
+{
+   list-style: none;
+   padding: 0;
+}
+
+.img-rounded
+{
+   margin-right:-100px;
+   width: 100%;
+}
+
+#testimonials p
+{
+   text-align: center;
+   font-size: 18px;
+   font-family: cursive;
+}
+#testimonials h3
+{
+   text-align: center;
+   color:#235789;
+   font-family: sans-serif;
+}
+.para p
+{
+   color: #89023E;
+}
+.para1 p
+{
+   color: #89023E;
+}
+
+.form-group
+{
+   padding: 25px;
+}
+
+.panel-header
+{
+   width: 100%;
+}
+
+.panel-content
+{
+   width: 100%;
+   text-align: center;
+}
+
+#myNavbar ul
+{
+   padding-top: 10px;
+}
+#signup
+{
+   text-align: center;
+}
+
+iframe
+{
+   width:100%;
+}
+
