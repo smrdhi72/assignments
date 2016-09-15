@@ -1,0 +1,36 @@
+.container-fluid
+{
+	background-color: #767B91 ;
+	width: 100%;
+}
+
+{
+	text-align: center;
+}
+#con{
+	margin-top: 30px;
+}
+#tbl
+{
+	width: 100%;
+}
+
+.new{
+	float: right;
+	margin-top: 50px;
+	font-size: 18px;
+}
+
+
+
+.s1
+{
+
+    background-color: #F7C59F;
+
+}
+.table-responsive
+{
+	width: 100%;
+}
+
